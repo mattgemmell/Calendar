@@ -1,0 +1,42 @@
+space: ""
+newline: "\n"
+weekdayHeadingNameLength: 3
+monthHeadingFormatString: '%B %Y'
+shortenMonthHeadingToFit: false
+wrapCurrent:
+    :before_day: ' current'
+    :after_day: ''
+    :before_week: ' current'
+    :after_week: ''
+    :before_month: ' current'
+    :after_month: ''
+currentConditionalMarker:
+    :before: 'CURRENT_BEFORE'
+    :after: 'CURRENT_AFTER'
+wrapOutput:
+    :before: '<!DOCTYPE html><html><head><title>Calendar</title><link rel="stylesheet" href="styles.css" media="screen" type="text/css"></head><body>'
+    :after: '</body></html>'
+wrapCalendar:
+    :before: '<div class="monthCURRENT_BEFORE">'
+    :after: '</div>'
+wrapMonthHeading:
+    :before: '<div class="month-heading">'
+    :after: '</div>'
+wrapDateGrid:
+    :before: '<div class="date-grid">'
+    :after: '</div>'
+wrapWeekdayHeadingsRow:
+    :before: '<div class="day-headings-row">'
+    :after: '</div>'
+wrapWeekdayHeading:
+    :before: '<div class="day-heading">'
+    :after: '</div>'
+wrapDaysGrid:
+    :before: '<div class="days-grid">'
+    :after: '</div>'
+wrapDaysRow:
+    :before: '<div class="weekCURRENT_BEFORE">'
+    :after: '</div>'
+wrapDay:
+    :before: '<div class="dayCURRENT_BEFORE">'
+    :after: '</div>'
