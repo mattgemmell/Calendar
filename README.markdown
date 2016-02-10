@@ -66,7 +66,7 @@ If you need a difference license, feel free to ask.
 
 Partly for fun, and partly because the output from `cal` was too inflexible (and visually cramped) for my taste. I also really wanted the ability to highlight the current day, week, and/or month, and to generate an HTML version of the calendar if necessary.
 
-I know there are presumably a million such scripts. Now there's a million and one.
+I know there are presumably a million such scripts. Now there are a million and one.
 
 
 ## Can you provide support?
