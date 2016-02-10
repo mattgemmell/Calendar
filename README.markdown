@@ -7,6 +7,10 @@ by [Matt Gemmell](http://mattgemmell.com/)
 
 It's a Ruby script that outputs a monthly calendar, like the `cal` command in Unix, but with more control over the output format.
 
+![Ruby calendar on the command-line](https://c2.staticflickr.com/2/1645/24910965616_bcfe942830_d.jpg)
+
+![Ruby calendar with HTML output](https://c2.staticflickr.com/2/1444/24937234535_d10cd2797c_d.jpg)
+
 
 ## What are its requirements?
 
